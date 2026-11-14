@@ -1,0 +1,12 @@
+
+invoice_no,product,category,quantity,unit_price,cost_price,sale_date,region
+INV001,Laptop,Electronics,2,600,450,2025-01-10,North
+INV002,Mouse,Accessories,10,15,8,2025-01-15,South
+INV003,Keyboard,Accessories,5,40,25,2025-02-08,East
+INV004,Monitor,Electronics,3,180,120,2025-02-15,West
+INV005,Laptop,Electronics,4,600,450,2025-03-05,North
+INV006,Headphones,Accessories,8,55,30,2025-03-18,South
+INV007,Monitor,Electronics,6,180,120,2025-04-12,East
+INV008,Keyboard,Accessories,12,40,25,2025-04-22,West
+INV009,Laptop,Electronics,3,600,450,2025-05-10,South
+INV010,Mouse,Accessories,20,15,8,2025-05-25,North
